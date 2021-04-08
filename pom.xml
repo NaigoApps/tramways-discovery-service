@@ -58,6 +58,6 @@
     <spring-cloud.version>Hoxton.SR7</spring-cloud.version>
   </properties>
 
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
 
 </project>
